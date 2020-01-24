@@ -1,0 +1,11 @@
+/Users/pwispassword/Desktop/Visual C#/Assignment-7/obj/Debug/netcoreapp3.1/Assignment-7.csprojAssemblyReference.cache
+/Users/pwispassword/Desktop/Visual C#/Assignment-7/obj/Debug/netcoreapp3.1/Assignment-7.AssemblyInfoInputs.cache
+/Users/pwispassword/Desktop/Visual C#/Assignment-7/obj/Debug/netcoreapp3.1/Assignment-7.AssemblyInfo.cs
+/Users/pwispassword/Desktop/Visual C#/Assignment-7/bin/Debug/netcoreapp3.1/Assignment-7
+/Users/pwispassword/Desktop/Visual C#/Assignment-7/bin/Debug/netcoreapp3.1/Assignment-7.deps.json
+/Users/pwispassword/Desktop/Visual C#/Assignment-7/bin/Debug/netcoreapp3.1/Assignment-7.runtimeconfig.json
+/Users/pwispassword/Desktop/Visual C#/Assignment-7/bin/Debug/netcoreapp3.1/Assignment-7.runtimeconfig.dev.json
+/Users/pwispassword/Desktop/Visual C#/Assignment-7/bin/Debug/netcoreapp3.1/Assignment-7.dll
+/Users/pwispassword/Desktop/Visual C#/Assignment-7/bin/Debug/netcoreapp3.1/Assignment-7.pdb
+/Users/pwispassword/Desktop/Visual C#/Assignment-7/obj/Debug/netcoreapp3.1/Assignment-7.dll
+/Users/pwispassword/Desktop/Visual C#/Assignment-7/obj/Debug/netcoreapp3.1/Assignment-7.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/pwispassword/.dotnet/store/|arch|/|tfm|",
+      "/Users/pwispassword/.nuget/packages"
+    ]
+  }
+}
